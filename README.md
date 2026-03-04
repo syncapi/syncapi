@@ -4,8 +4,6 @@
 
 **UI Designer & Frontend Developer** · *he/him*
 
-### 📈 Contribution Graph
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syncapi&theme=redical&hide_border=true&bg_color=0D1117&color=4FC08D&line=4FC08D&point=FFFFFF)
 
 ---
